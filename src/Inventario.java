@@ -1,6 +1,8 @@
+// Se encarga de gestionar el stock de piezas (aceite, filtros, ruedas).
+
 public class Inventario {
     public void comprobarStock() {
-        // TODO: Implementar lógica (Alumno C)
-        System.out.println("Función no implementada aún");
+        System.out.println("Stock actual: 10000 balizas v16, 30000 neumaticos");
+        
     }
 }
